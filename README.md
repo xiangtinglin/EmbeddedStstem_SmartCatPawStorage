@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=KiXPuzx5egM&list=PLXXc_QqkqR-U0l1N3cX_IKwmcRZHqC
 [Details]
 1. 產品設計介紹：30s
 2. 功能:
+
    （1）元件:
    
    sensor感重量 >> 邏輯條件判斷決定是啟動motor、LED、蜂鳴器 >> 結果會呈現在LCD螢幕上。
@@ -17,9 +18,9 @@ https://www.youtube.com/watch?v=KiXPuzx5egM&list=PLXXc_QqkqR-U0l1N3cX_IKwmcRZHqC
      
    - Status:Action
      
-     輕量模式:小於 15g 且 大於等於100g 👉 推向左。
+     # 輕量模式:小於 15g 且 大於等於100g 👉 推向左。
      
-     中等模式:大於 100g 且 小於等於1.3kg 👉推向右。
+     # 中等模式:大於 100g 且 小於等於1.3kg 👉推向右。
      
    - Status:Alert
      
@@ -27,11 +28,12 @@ https://www.youtube.com/watch?v=KiXPuzx5egM&list=PLXXc_QqkqR-U0l1N3cX_IKwmcRZHqC
      
    - Status:
      
-     Sleep Mode休眠: 進入Status:Idle階段,15秒後進入休眠 >> 休眠後5秒螢幕自動熄滅（待機）。
+     # Sleep Mode休眠: 進入Status:Idle階段,15秒後進入休眠 >> 休眠後5秒螢幕自動熄滅（待機）。
      
-     Waking重啟: 放置物品時自動喚醒。
+     # Waking重啟: 放置物品時自動喚醒。
      
 4. 特色:
+   
    （1）5V2A外接行動電源:同一電源可同時分別供應板子跟伺服馬達、電子元件所需。
    
    （2）雙臂伺服馬達。
