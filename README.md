@@ -1,6 +1,6 @@
 # EmbeddedStstem_SmartCatPawStorage
 
-[Demo]
+[Demo video]
 
 https://www.youtube.com/watch?v=KiXPuzx5egM&list=PLXXc_QqkqR-U0l1N3cX_IKwmcRZHqCvCu
 
