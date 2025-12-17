@@ -8,7 +8,9 @@ https://www.youtube.com/watch?v=KiXPuzx5egM&list=PLXXc_QqkqR-U0l1N3cX_IKwmcRZHqC
 1. 檔案組織:
    ｜—— mian.io(全部都在主程式一個腳本檔中)
    ｜—— Readme.md(說明文件)
-2. 執行方式:（1）先下載開發應用程式:Arduino IDE or 使用雲端版https://www.arduino.cc/en/software/（2）連接硬體、偵測Port後，貼上main.io程式執行即可。
+2. 執行方式:
+   - （1）先下載開發應用程式:Arduino IDE or 使用雲端版https://www.arduino.cc/en/software/
+   - （2）連接硬體、偵測Port後，貼上main.io程式執行即可。
 
 [Details]
 1. 產品設計介紹：30s
